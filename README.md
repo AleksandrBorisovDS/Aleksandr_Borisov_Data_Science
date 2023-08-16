@@ -1,7 +1,7 @@
 ### Hello, I'm Aleksandr Borisov 👋
 
 ## I'm a Junior Data Science!
-- 🔭 I’m currently looking opportunities in Data Science Projects/
+- 🔭 I’m currently looking opportunities in Data Science Projects!
 - 🥅 2023 Goals: I successfully finished my first cource in Data science. 
 
 ### Connect with me:
